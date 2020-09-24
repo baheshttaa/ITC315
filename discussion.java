@@ -1,5 +1,8 @@
 public class practice7 {
     public static void main(String[] args) {
+        
+        System.out.println("Hello, World");
+        
         int a = max(10,8);
         System.out.println(z+" is bigger");
         
